@@ -1,6 +1,0 @@
-[submodule "submodule1"]
-	path = submodule1
-	url = ./
-[submodule "submodule2"]
-	path = submodule2
-	url = ./
